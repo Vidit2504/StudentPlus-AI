@@ -1,0 +1,13 @@
+{
+  "name": "studentpulse-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "StudentPulse AI student success dashboard with a local Node.js backend",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
